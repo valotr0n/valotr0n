@@ -45,37 +45,6 @@ public class Developer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valotr0n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valotr0n&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=valotr0n&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌊 Activity Graph
-
-<div align="center">
-
-[![Valery's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valotr0n&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🎮 Tetris — contribution grid
 
 <div align="center">
@@ -90,7 +59,7 @@ public class Developer {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stax1x)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valotr0n)
 
 </div>
