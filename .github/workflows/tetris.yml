@@ -1,4 +1,4 @@
-name: Generate Tetris
+name: Generate 3D Contribution Calendar
 
 on:
   schedule:
@@ -17,17 +17,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Tetris
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/tetris.svg?palette=github-dark&type=tetris-128
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "githubUserName": "${{ github.repository_owner }}",
+              "title": "",
+              "backgroundColor": "#161b22",
+              "foregroundColor": "#0d1117",
+              "dataColor1": "#006d32",
+              "dataColor2": "#26a641",
+              "dataColor3": "#39d353",
+              "guidelineColor": "#21262d",
+              "textColor": "#8b949e",
+              "type": "NORMAL"
+            }
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
