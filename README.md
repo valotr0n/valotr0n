@@ -11,10 +11,6 @@
 ## ⚡ About Me
 
 ```bash
-$ whoami
-valery
-
-$ cat info.txt
 🎓 University  : DSTU, 2nd year
 🌇 Location    : Rostov-on-Don
 💻 Stack       : Java, Python
@@ -66,7 +62,8 @@ always coding...
 </div>
 
 ---
-
-*"Stay hungry. Stay foolish"*
+<div align="center">
+  
+*"Stay hungry. Stay foolish."*
 
 </div>
