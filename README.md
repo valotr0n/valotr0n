@@ -11,6 +11,10 @@
 ## ⚡ About Me
 
 ```bash
+$ whoami
+valery
+
+$ cat info.txt
 🎓 University  : DSTU, 2nd year
 🌇 Location    : Rostov-on-Don
 💻 Stack       : Java, Python
@@ -20,7 +24,7 @@
 📚 Learning    : Blockchain architecture & Web3
 
 $ echo $STATUS
-always sleep...
+always coding...
 ```
 
 ---
@@ -42,6 +46,17 @@ always sleep...
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valotr0n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valotr0n&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 ## 🔥 Streak
 
 <div align="center">
@@ -52,11 +67,21 @@ always sleep...
 
 ---
 
-## 🎮 Tetris — contribution grid
+## 🌊 Activity Graph
 
 <div align="center">
 
-![tetris](https://raw.githubusercontent.com/valotr0n/valotr0n/output/tetris.svg)
+[![Valery's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valotr0n&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🗓️ 3D Contribution Calendar
+
+<div align="center">
+
+![3D Contrib](https://raw.githubusercontent.com/valotr0n/valotr0n/output/profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
@@ -66,7 +91,7 @@ always sleep...
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stax1x)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valotr0n)
 
 </div>
@@ -77,6 +102,6 @@ always sleep...
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valotr0n.valotr0n)
 
-*"Stay hungry, Stay foolish."*
+*"First, solve the problem. Then, write the code."*
 
 </div>
