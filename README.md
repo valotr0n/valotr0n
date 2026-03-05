@@ -1,16 +1,106 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**valotr0n/valotr0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Valery+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+Python;Blockchain+enthusiast+%F0%9F%94%97;Student+%40+DSTU+Rostov)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="180px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```java
+public class Developer {
+
+    String name     = "Valery";
+    String city     = "Rostov-on-Don 🌇";
+    String uni      = "DSTU — 2nd year student";
+
+    String[] languages  = {"Java", "Python"};
+    String[] databases  = {"PostgreSQL"};
+    String[] devOps     = {"Docker", "Kubernetes", "Grafana", "Git"};
+
+    String[] interests  = {"Backend Development", "Blockchain", "Microservices"};
+    String   learning   = "Blockchain architecture & Web3";
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valotr0n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valotr0n&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=valotr0n&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌊 Activity Graph
+
+<div align="center">
+
+[![Valery's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=valotr0n&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎮 Tetris — contribution grid
+
+<div align="center">
+
+![tetris](https://raw.githubusercontent.com/valotr0n/valotr0n/output/tetris.svg)
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valotr0n)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valotr0n.valotr0n)
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
