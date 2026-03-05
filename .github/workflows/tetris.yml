@@ -15,11 +15,10 @@ jobs:
 
     steps:
       - name: generate tetris
-        uses: Platane/snk/svg-only@v3
+        uses: qualified-d/tetris-github-profile@v1.0.2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/tetris.svg?palette=github-dark&type=tetris
+          outputs: dist/tetris.svg
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
