@@ -1,13 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Valery+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+Python;Student+%40+DSTU+Rostov)](https://git.io/typing-svg)
-
-<img src="https://octodex.github.com/images/Professortocat_v2.png" width="180px" />
-
-</div>
-
----
-
 ## ⚡ About Me
 
 ```bash
